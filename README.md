@@ -41,13 +41,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
 
----
-
-### 📫 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/naufal-aziz" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="naufal-aziz" /></a>
-<a href="https://instagram.com/naufal.xhtml" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="naufal.xhtml" /></a>
-<a href="https://twitter.com/solnopool" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="solnopool" /></a>
-<a href="mailto:elio284@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="elio284" /></a>
-</p>
-
