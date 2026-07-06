@@ -1,43 +1,106 @@
-<h1 align="center">Hi 👋, I'm Elio Hassak (Nopools)</h1>
-<h3 align="center">Full-Stack Web & Mobile Developer | SaaS Enthusiast 🇮🇩</h3>
+# 👋 Hi, I'm Elio
+**AI-Powered Full Stack Developer | React | Node.js | Python | LLM Integration**  
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=elio284&label=Profile%20views&color=FF69B4&style=flat-square" alt="elio284" /> 
-</p>
-
-<p align="center">
-  <a href="https://elio284.vercel.app" target="_blank"><b>🌐 Visit My Portfolio</b></a>
-</p>
+✉️ hapergrant866@gmail.com | 🌐 [Portfolio](https://elio284.vercel.app)
 
 ---
 
-### ⚡ Quick Summary
-- 🏥 **SIMRS Developer** at **RS Kanker Dharmais** (Building AIS, ATiDar, EMR (E-Medical Record), SiKevin).
-- 🚀 **Founder** at **Navitek.id** (Currently shipping **Clippeak**).
-- 💼 **Full-Stack Developer** at **PT. Dimensi Sukses Pratama** (Crafting Dimensi HRIS Ecosystem).
-- 📱 Developing mobile apps with **Flutter** and **React Expo**.
-- 📈 AI & Forex Enthusiast (XAU/USD Trading).
+## 💡 About Me
+I build **scalable, AI-enhanced web applications** that solve real-world problems. With 5+ years of experience in full stack development, I combine **modern frontend frameworks**, **robust backend systems**, and **AI integration** to deliver outstanding products.
+
+I help businesses by:
+- Building AI-powered workflows & intelligent search systems  
+- Developing SaaS platforms with real-time collaboration  
+- Optimizing backend performance & ensuring scalable architecture  
+- Mentoring teams in remote environments to maximize impact  
+
+> “Building intelligent systems to make life easier, one line of code at a time.”
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠 Tech Stack
 
-#### 🌐 Web Development
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🔹 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-EF4026?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-007ACC?style=for-the-badge&logo=rest-api&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-#### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+### 🔹 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-#### ⚙️ Databases & Others
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🔹 Backend & Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
 
+---
+
+## 💼 Professional Experience
+**Wantedly, Inc – AI-Driven Full Stack Developer** | 09/2024 – 10/2025 | Remote  
+- Built **AI-powered web apps** with OpenAI API & LLM automation  
+- Developed SaaS platforms with React, Next.js, Go, Supabase  
+- Integrated **authentication, payment systems, and real-time collaboration**  
+- Optimized rendering & backend scalability  
+- Mentored junior developers in remote teams  
+
+**SmartNews – Senior Full Stack Engineer** | 01/2023 – 08/2024 | Remote  
+- Led full stack development for **high-traffic analytics & content platforms**  
+- Designed RESTful APIs & microservices with Python, FastAPI, AWS  
+- Developed responsive frontend with Next.js & Tailwind CSS  
+- Implemented **automated testing & monitoring**  
+
+**Mercari – Full Stack Developer** | 04/2021 – 12/2022 | Remote  
+- Built scalable apps with React, TypeScript, Node.js, PostgreSQL  
+- Improved operational efficiency via dashboards & API integrations  
+- Optimized database & caching for better performance  
+- Enhanced CI/CD pipelines using Docker & GitHub Actions  
+
+---
+
+## 🎓 Education
+**Osaka University** – Bachelor of Computer Science | 2019 – 2022 | Osaka, Japan  
+
+---
+
+## 🚀 Featured Projects
+### **AI Content Generator**
+**Tech Stack:** React, Next.js, OpenAI API, Node.js  
+💡 Automates content creation & workflow tasks using LLMs.  
+[🔗 View Repository](#)
+
+### **SaaS Collaboration Platform**
+**Tech Stack:** React, Go, Supabase, Tailwind CSS  
+💡 Real-time collaboration platform with authentication & payment integration.  
+[🔗 View Repository](#)
+
+### **Analytics Dashboard**
+**Tech Stack:** Python, FastAPI, PostgreSQL, AWS  
+💡 High-traffic analytics platform with optimized backend & REST APIs.  
+[🔗 View Repository](#)
+
+---
+
+## 🤝 Let's Connect
+- 🌐 [Portfolio](https://elio284.vercel.app)  
+- ✉️ hapergrant866@gmail.com
+
+---
+
+## 💼 Why Work With Me?
+- 💻 **Full Stack Expertise:** Frontend, backend, database, cloud  
+- 🤖 **AI & Automation:** LLM integration, workflow automation, intelligent systems  
+- 🚀 **Scalable Solutions:** High-performance, production-ready systems  
+- 🌍 **Remote Collaboration:** Experience leading and mentoring distributed teams  
+
+> I help clients turn ideas into **AI-enhanced, production-grade applications**.
